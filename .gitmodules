@@ -1,0 +1,8 @@
+[submodule "surf-ditc"]
+	path = surf-ditc
+	url = git@github.com:DemonInTheCloset/surf-ditc.git
+	branch = main
+[submodule "starship-src"]
+	path = starship-src
+	url = git@github.com:DemonInTheCloset/starship-src.git
+	branch = main
